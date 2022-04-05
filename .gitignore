@@ -1,0 +1,11 @@
+.idea/
+__pycache__/
+runs/
+results/
+raw/
+test_code/
+misaeng_test/
+data/
+
+*.mp4
+*.pth
